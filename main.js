@@ -11,6 +11,6 @@ myImage.addEventListener("click", () => {
   if (mySrc === "images/ghacemm.png") {
     myImage.setAttribute("src", "images/ghacem-cement.png");
   } else {
-    myImage.setAttribute("src", "images/ghacem.png");
+    myImage.setAttribute("src", "images/ghacemm.png");
   }
 });
